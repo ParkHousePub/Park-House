@@ -221,7 +221,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- CIDER -->
   <div class="section-header">
-  <img width="125" height="250" alt="black-white-illustration-apple-cider-mug-391291305-fotor-bg-remover-20251224225138" src="https://github.com/user-attachments/assets/60f6dcf7-78eb-4d15-8cd8-cb40f930fbe8" />
+  <img width="125" height="150" alt="black-white-illustration-apple-cider-mug-391291305-fotor-bg-remover-20251224225138" src="https://github.com/user-attachments/assets/60f6dcf7-78eb-4d15-8cd8-cb40f930fbe8" />
         <h2>CIDER</h2>
   </div>
 
@@ -250,8 +250,8 @@ Check out our current discounts, and see which beers are coming next!
  <div class="divider"></div>
  
 <!-- What Is Next? -->
-  <div class="section-header">
-  <img width="100" height="225" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+   <div class="section-header">
+  <img width="75" height="225" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
         <h2>What Is Coming Next?</h2>
  </div>
  <div class="price-header">
