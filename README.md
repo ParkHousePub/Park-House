@@ -1,5 +1,5 @@
-# Park-House
-Discover the Park House menu, check out our current discounts, and see which beers are coming next!
+# Park House
+Check out our current discounts, and see which beers are coming next!
 <html lang="en">
 <head>
   <meta charset="UTF-8" />
