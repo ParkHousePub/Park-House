@@ -146,9 +146,9 @@
       <div class="name">Weekly Special</div>
       <div class="desc">Ask Bar</div>
     </div>
-    <div class="prices">2.15–3.30</div>
-    <div class="prices">3.20–4.10</div>
-    <div class="prices">4.50–6.20</div>
+    <div class="prices">2.15 – 3.30</div>
+    <div class="prices">3.20 – 4.10</div>
+    <div class="prices">4.50 – 6.20</div>
   </div>
 
   <div class="divider"></div>
@@ -168,9 +168,9 @@
       <div class="name">Weekly Special</div>
       <div class="desc">Ask Bar</div>
     </div>
-    <div class="prices">2.20–2.75</div>
-    <div class="prices">3.10–3.70</div>
-    <div class="prices">4.20–4.95</div>
+    <div class="prices">2.20 – 2.75</div>
+    <div class="prices">3.10 – 3.70</div>
+    <div class="prices">4.20 – 4.95</div>
   </div>
 
   <div class="divider"></div>
