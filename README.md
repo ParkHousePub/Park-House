@@ -10,7 +10,7 @@ Discover the Park House menu, check out our current discounts, and see which bee
     body {
       margin: 0;
       font-family: "Georgia", "Times New Roman", serif;
-      background-coloor: #f4efe6;
+      background-coloor: SW9503;
       color: #2e2a24;
     }
 
