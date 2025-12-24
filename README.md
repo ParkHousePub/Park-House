@@ -1,5 +1,4 @@
 # Park-House
-theme: Park House Pub
 Discover the Park House menu, check out our current discounts, and see which beers are coming next!
 <html lang="en">
 <head>
@@ -30,7 +29,7 @@ Discover the Park House menu, check out our current discounts, and see which bee
   color: #3b2b1f;
 
   /* Old paper base color */
-  background-color: #f3ead7;
+  background-color: #E2D1BA;
 
   /* Subtle paper grain + aging */
   background-image:
