@@ -23,13 +23,28 @@ Discover the Park House menu, check out our current discounts, and see which bee
   <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
 
   <style>
-    body {
-      margin: 0;
-      padding: 40px;
-      background-color: #f7f1e6;
-      font-family: "Playfair Display", serif;
-      color: #3b2b1f;
-    }
+  body {
+  margin: 0;
+  padding: 40px;
+  font-family: "Playfair Display", serif;
+  color: #3b2b1f;
+
+  /* Old paper base color */
+  background-color: #f3ead7;
+
+  /* Subtle paper grain + aging */
+  background-image:
+    radial-gradient(circle at 20% 20%, rgba(0,0,0,0.04), transparent 40%),
+    radial-gradient(circle at 80% 30%, rgba(0,0,0,0.03), transparent 45%),
+    radial-gradient(circle at 50% 80%, rgba(0,0,0,0.04), transparent 50%),
+    repeating-linear-gradient(
+      0deg,
+      rgba(0,0,0,0.015),
+      rgba(0,0,0,0.015) 1px,
+      transparent 1px,
+      transparent 3px
+    );
+}
 
     .menu {
       max-width: 900px;
