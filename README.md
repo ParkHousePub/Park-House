@@ -6,7 +6,7 @@ Discover the Park House menu, check out our current discounts, and see which bee
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>The Rusty Barrel – Drinks Menu</title>
+  <title>Park House – Drinks Menu</title>
   <style>
     body {
       margin: 0;
