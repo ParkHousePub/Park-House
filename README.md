@@ -236,6 +236,16 @@ Check out our current discounts, and see which beers are coming next!
 
   <div class="item">
     <div>
+      <div class="name">Red Fin 4.2%</div>
+      <div class="desc">Cider</div>
+    </div>
+    <div class="prices">2.40</div>
+    <div class="prices">3.20</div>
+    <div class="prices">4.50</div>
+  </div>
+  
+  <div class="item">
+    <div>
       <div class="name">Lilley’s 4%</div>
       <div class="desc">Mango Cider</div>
     </div>
