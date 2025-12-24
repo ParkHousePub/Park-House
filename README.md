@@ -247,12 +247,12 @@ Check out our current discounts, and see which beers are coming next!
 
 </div>
 
-   <div class="divider"></div>
+    <div class="divider"></div>
  
 <!-- What Is Next? -->
    <div class="section-header">
   <img width="150" height="175" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
-        <h2>What Is Coming Next?</h2>
+        <h2>WHAT IS COMING NEXT?</h2>
  </div>
  <div class="price-header">
     <span></span><span>½</span><span>⅔</span><span>Pint</span>
@@ -265,7 +265,7 @@ Check out our current discounts, and see which beers are coming next!
   <div class="item">
     <div>
       <div class="name">Calypso 3.8%</div>
-      <div class="desc">blabla – Siren</div>
+      <div class="desc">Keg – Siren</div>
     </div>
     <div class="prices">1.90</div>
     <div class="prices">2.55</div>
