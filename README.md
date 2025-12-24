@@ -1,6 +1,6 @@
 Check out our current discounts, and see which beers are coming next! 
 
-<img width="700" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
+<img width="800" height="350" alt="image" src="https://github.com/user-attachments/assets/889b3e42-8704-42cb-b386-526dda0b6c00" />
 
 <html lang="en"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
   <title> Park House – Drinks Menu</title> 
@@ -105,6 +105,7 @@ Check out our current discounts, and see which beers are coming next!
 
 <div class="menu">
 
+  <div class="divider"></div>
 <div class="section-header">
 <img width="235" height="150" alt="biere-fotor-bg-remover-20251224223054" src="https://github.com/user-attachments/assets/0de646f9-3a95-4015-935b-4bff090caefa" />  
           <h1>DRAUGHT</h1>
@@ -220,7 +221,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- CIDER -->
   <div class="section-header">
-  <img width="175" height="150" alt="black-white-illustration-apple-cider-mug-391291305-fotor-bg-remover-20251224225138" src="https://github.com/user-attachments/assets/60f6dcf7-78eb-4d15-8cd8-cb40f930fbe8" />
+  <img width="125" height="250" alt="black-white-illustration-apple-cider-mug-391291305-fotor-bg-remover-20251224225138" src="https://github.com/user-attachments/assets/60f6dcf7-78eb-4d15-8cd8-cb40f930fbe8" />
         <h2>CIDER</h2>
   </div>
 
@@ -246,9 +247,11 @@ Check out our current discounts, and see which beers are coming next!
 
 </div>
 
+ <div class="divider"></div>
+ 
 <!-- What Is Next? -->
   <div class="section-header">
-  <img width="235" height="150" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+  <img width="235" height="125" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
         <h2>What Is Coming Next?</h2>
  </div>
  <div class="price-header">
