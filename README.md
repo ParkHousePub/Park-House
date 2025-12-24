@@ -251,7 +251,7 @@ Check out our current discounts, and see which beers are coming next!
  
 <!-- What Is Next? -->
    <div class="section-header">
-  <img width="75" height="225" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
+  <img width="125" height="150" alt="beer-mug-vector-sketch-hops-600nw-2162493319-fotor-bg-remover-20251224225855" src="https://github.com/user-attachments/assets/a02a5ec9-a58d-43bb-9aca-935635262b7e" />
         <h2>What Is Coming Next?</h2>
  </div>
  <div class="price-header">
