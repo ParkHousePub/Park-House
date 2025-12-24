@@ -258,10 +258,6 @@ Check out our current discounts, and see which beers are coming next!
     <span></span><span>½</span><span>⅔</span><span>Pint</span>
   </div>
 
-  <div class="price-header">
-    <span></span><span>½</span><span>⅔</span><span>Pint</span>
-  </div>
-
   <div class="item">
     <div>
       <div class="name">Calypso 3.8%</div>
