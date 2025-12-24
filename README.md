@@ -1,13 +1,9 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Park House – Drinks Menu</title>
-
-  <!-- Google Font -->
-  <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@400;600;700&display=swap" rel="stylesheet">
-
+# Park House 
+Check out our current discounts, and see which beers are coming next! 
+<html lang="en"> <head> <meta charset="UTF-8" /> <meta name="viewport" content="width=device-width, initial-scale=1.0" /> 
+  <title> Park House – Drinks Menu</title> 
+  <style> body { margin: 0; font-family: "Georgia", "Times New Roman", serif; background-coloor: SW9503; color: #2e2a24;
+                
   <style>
     body {
       margin: 0;
