@@ -45,8 +45,13 @@ Discover the Park House menu, check out our current discounts, and see which bee
     );
 }
 
-    <img src="images/9d10e5d5-5bf8-4e2d-83d3-7750caae57f9.png" alt="Building photo">
-    
+   <img id="myImage">
+
+<script>
+  document.getElementById("myImage").src =
+    "9d10e5d5-5bf8-4e2d-83d3-7750caae57f9.png";
+</script>
+
     .menu {
       max-width: 900px;
       margin: auto;
