@@ -1,4 +1,4 @@
- # Park-House
+# Park-House
 theme: Park House Pub
 Discover the Park House menu, check out our current discounts, and see which beers are coming next!
 <!DOCTYPE html>
@@ -6,12 +6,12 @@ Discover the Park House menu, check out our current discounts, and see which bee
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>Park House – Drinks Menu</title>
+  <title> Park House – Drinks Menu</title>
   <style>
     body {
       margin: 0;
       font-family: "Georgia", "Times New Roman", serif;
-      background-color: #f4efe6;
+      background-coloor: #f4efe6;
       color: #2e2a24;
     }
 
@@ -77,9 +77,10 @@ Discover the Park House menu, check out our current discounts, and see which bee
     <h1>Park House</h1>
     <div class="subtitle">Est. 1892</div>
 
-    <h2>Beers</h2>
+    <h2>Draught</h2>
     <ul>
-      <li><span class="item">House Bitter</span><span class="price">£4.50</span></li>
+    <ul>space space space <1/2 = 2/3 = Pint> 
+      <li><span class="item">Show your Stripes 3.8% </span><span class="price">£3,79</span></li>
       <li><span class="item">Golden Ale</span><span class="price">£4.80</span></li>
       <li><span class="item">Stout</span><span class="price">£5.00</span></li>
       <li><span class="item">Lager</span><span class="price">£4.60</span></li>
