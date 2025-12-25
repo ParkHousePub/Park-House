@@ -286,7 +286,7 @@ Check out our current discounts, and see which beers are coming next!
         <h2>White Wine</h2>
 </div>
  <div class="price-header">
- <span></span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle</span><span>
+ <span></span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle<span>
  
  
   <div class="name">Regatta (House)</div>
@@ -298,7 +298,6 @@ Check out our current discounts, and see which beers are coming next!
   <div class="prices">22.80</div>
   </div>
   <div class="item">
-  <div>
       
   <div class="name">Bacchus</div>
   <div class="desc">Similar to Sauvignon Blanc - Dry</div>
@@ -307,7 +306,6 @@ Check out our current discounts, and see which beers are coming next!
   <div class="prices">7.10</div>
   <div class="prices">9.20</div>
   <div class="prices">26.99</div>
-  </div>
 
   <div class="name">Fiano (Italian)</div>
   <div class="desc">Similar to Chardonnay - Sweet</div>
@@ -316,7 +314,6 @@ Check out our current discounts, and see which beers are coming next!
   <div class="prices">6.90</div>
   <div class="prices">8.90</div>
   <div class="prices">25.99</div>
-  </div>
 
   <div class="name">King's Fume</div>
   <div class="desc">Similar to White wines from Burgundy - Dry</div>
@@ -325,6 +322,5 @@ Check out our current discounts, and see which beers are coming next!
   <div class="prices">9.80</div>
   <div class="prices">12.70</div>
   <div class="prices">37.49</div>
-  </div>
 
   <div class="divider"></div>
