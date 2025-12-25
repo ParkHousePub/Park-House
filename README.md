@@ -286,7 +286,7 @@ Check out our current discounts, and see which beers are coming next!
         <h2>White Wine</h2>
  </div>
  <div class="price-header">
-    <span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle</span>
+ <span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle</span>
   </div>
 
   <div class="item">
