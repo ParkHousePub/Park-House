@@ -284,43 +284,19 @@ Check out our current discounts, and see which beers are coming next!
    <div class="section-header">
 <img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
         <h2>White Wine</h2>
-</div>
+ </div>
  <div class="price-header">
- <span></span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle<span>
- 
- 
-  <div class="name">Regatta (House)</div>
-  <div class="desc">Similar to Pinot Grigio - Fruity</div>
+    <span></span><span>125ml</span><span>175ml</span><span>250ml</span><span>Bottle</span>
   </div>
-  <div class="prices">4.40</div>
-  <div class="prices">6.10</div>
-  <div class="prices">7.80</div>
-  <div class="prices">22.80</div>
-  </div>
+
   <div class="item">
-      
-  <div class="name">Bacchus</div>
-  <div class="desc">Similar to Sauvignon Blanc - Dry</div>
+    <div>
+      <div class="name">Calypso 3.8%</div>
+      <div class="desc">KEG – Siren</div>
+    </div>
+    <div class="prices">1.90</div>
+    <div class="prices">2.55</div>
+    <div class="prices">3.79</div>
+    <div class="prices">3.79</div>
   </div>
-  <div class="prices">5.10</div>
-  <div class="prices">7.10</div>
-  <div class="prices">9.20</div>
-  <div class="prices">26.99</div>
-
-  <div class="name">Fiano (Italian)</div>
-  <div class="desc">Similar to Chardonnay - Sweet</div>
-  </div>
-  <div class="prices">4.90</div>
-  <div class="prices">6.90</div>
-  <div class="prices">8.90</div>
-  <div class="prices">25.99</div>
-
-  <div class="name">King's Fume</div>
-  <div class="desc">Similar to White wines from Burgundy - Dry</div>
-  </div>
-  <div class="prices">6.80</div>
-  <div class="prices">9.80</div>
-  <div class="prices">12.70</div>
-  <div class="prices">37.49</div>
-
-  <div class="divider"></div>
+  
