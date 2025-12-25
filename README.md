@@ -278,7 +278,7 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">3.79</div>
   </div>
   
-     <div class="divider"></div>
+  <div class="divider"></div>
      
 <!-- White Wines? -->
    <div class="section-header">
@@ -293,19 +293,18 @@ Check out our current discounts, and see which beers are coming next!
   <span>Bottle</span>
 </div>
 
-<div class="item">
-  <div class="details">
-    <div class="name">Regatta (House)</div>
-    <div class="desc">Similar to Pinot Grigio – Fruity</div>
+ <div class="item">
+    <div>
+      <div class="name">Regatta (House)</div>
+      <div class="desc">Similar to Pinot Grigio - Fruity</div>
+    </div>
+    <div class="prices">4.40</div>
+    <div class="prices">6.10</div>
+    <div class="prices">7.80</div>
+    <div class="prices">22.80</div>
   </div>
-  <div class="prices">4.40</div>
-  <div class="prices">6.10</div>
-  <div class="prices">7.80</div>
-  <div class="prices">22.80</div>
-</div>
-
-<div class="item">
-  <div>
+    <div class="item">
+    <div>
       
       <div class="name">Bacchus</div>
       <div class="desc">Similar to Sauvignon Blanc - Dry</div>
@@ -335,5 +334,3 @@ Check out our current discounts, and see which beers are coming next!
   </div>
 
    <div class="divider"></div>
-
- 
