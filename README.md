@@ -284,17 +284,11 @@ Check out our current discounts, and see which beers are coming next!
    <div class="section-header">
 <img width="135" height="150" alt="pngtree-wine-set-sketch-with-a-bottle-of-wine-bunch-of-grapes-png-image_12973921-fotor-bg-remover-2025122594828" src="https://github.com/user-attachments/assets/fe40c17b-466e-4584-b3f1-7f590b967634" />
         <h2>White Wine</h2>
-     
- <div class="price-header">
-  <span></span>
-  <span>125ml</span>
-  <span>175ml</span>
-  <span>250ml</span>
-  <span>Bottle</span>
 </div>
-<div class="item">
-    <div>
-      
+ <div class="price-header">
+ <span></span><span>½</span><span>⅔</span><span>Pint</span><span>Bottle</span><span>
+  </div>
+ 
   <div class="name">Regatta (House)</div>
   <div class="desc">Similar to Pinot Grigio - Fruity</div>
   </div>
