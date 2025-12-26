@@ -294,7 +294,6 @@ Check out our current discounts, and see which beers are coming next!
 <span class="inline-span">125ml</span>
 <span class="inline-span">175ml</span>
 <span class="inline-span">250ml</span>
-<span class="inline-span">Bottle</span>
   </div>
 
   <div class="item">
@@ -305,6 +304,6 @@ Check out our current discounts, and see which beers are coming next!
     <div class="prices">1.90</div>
     <div class="prices">2.55</div>
     <div class="prices">3.79</div>
-    <div class="prices">3.79</div>
+    <div class="prices">Bottle 3.79</div>
   </div>
   
