@@ -490,7 +490,7 @@ Check out our current discounts, and see which beers are coming next!
 
 <!-- COCKTAILS? -->
    <div class="section-header">
-<img width="135" height="150" alt="360_F_1618339738_cswdGdE65lDBXvpsMgceVL7dBOJQJbBo-fotor-bg-remover-20260103161424" src="https://github.com/user-attachments/assets/0fbf17fe-580e-450f-9115-d35e7bb96b79" />
+<img width="150" height="150" alt="360_F_1618339738_cswdGdE65lDBXvpsMgceVL7dBOJQJbBo-fotor-bg-remover-20260103161424" src="https://github.com/user-attachments/assets/0fbf17fe-580e-450f-9115-d35e7bb96b79" />
 
         <h2>COCKTAILS</h2>
  </div>
@@ -575,8 +575,7 @@ Check out our current discounts, and see which beers are coming next!
 
   <!-- GIN -->
   <div class="section-header">
- <img width="150" height="135" alt="hand-drawn-bottle-of-vodka-shot-glass-and-lemon-slices-sketch-style-vector-illustration-2HAJH2F-fotor-bg-remover-20260103161733" src="https://github.com/user-attachments/assets/3681d939-df61-411e-8c57-0bc05a33cc14" />
-
+<img width="150" height="135" alt="image" src="https://github.com/user-attachments/assets/03196225-a708-4472-b8ba-1b8708e7696a" />
           <h2>GIN</h2>
   </div>
 
